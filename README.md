@@ -21,7 +21,7 @@ This project is an interactive sales analysis dashboard built in Power BI, desig
 1.  **Download and Open:** Download the `Adidas Sales Analysis Dashboard.pbix` file.
 2.  **Install Power BI:** Ensure you have **Power BI Desktop** installed on your computer. If not, you can download it from the official Microsoft website.
 3.  **Explore the Data:** Open the `.pbix` file with Power BI Desktop. The dashboard will load, and you can start interacting with the various filters, slicers, and visuals to dive into the sales data.
-
+4.  **CLICK TO VIEW DASHBOARD: Dashboard live view
 ---
 
 ### **Data Source** 📈
